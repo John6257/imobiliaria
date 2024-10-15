@@ -58,35 +58,53 @@ nav a {
     transition: 0.5s;
 }
 
-nav a:hover{
+nav a:hover {
     color: var(--cor-03);
 }
 
 .logo {
     font-size: 1.2rem;
     font-weight: 700;
-    
 }
 
-/* ====   cabeçalho da pagina ===== */
-header{
+/* ===== Cabeçalho da página ===== */
+header {
     height: 20rem;
     margin-top: 3.5rem;
     background-color: var(--cor-03);
 }
 
-
-/* ====== section ===== */
+/* ===== Sections ===== */
 section {
     min-height: 80vh;
     padding: 5rem 2rem;
-    border: solid 2px var(--cor-principal);
+
+    border: solid 2px red; /* TESTE */
 }
 
+/* ===== Card do Imóvel ===== */
+#imoveis {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 1rem;
+}
 
+.imovel {
+    
+    border: solid 1px #0066ff; /* TESTE */
+}
 
+.foto {
+    height: 14rem;
+    
+    border: solid 1px #1ddb00; /* TESTE */
+}
 
-/* ====== footer ===== */
+.foto img {
+    height: 100%;
+}
+
+/* ===== Footer ===== */
 footer {
     min-height: 16rem;
     background-color: var(--cor-05);
