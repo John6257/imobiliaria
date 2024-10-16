@@ -1,0 +1,45 @@
+[
+    {
+        "titulo": "casa. 5 dorm. aldeota",
+        "descricao": "Lindo apartamento de 3 dormitórios localizado num dos melhores bairros de Fortaleza.",
+        "valor": 1500000,
+        "area": 94,
+        "quartos": 5,
+        "tipo": "casa",
+        "localizacao": "Santos Dummont, Papicu",
+
+        "mapa": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31850.662837035838!2d-38.52300133835477!3d-3.7374544842749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7488b96a82613%3A0x4237c6ffccb3a203!2sAldeota%2C%20Fortaleza%20-%20CE!5e0!3m2!1spt-BR!2sbr!4v1729107627739!5m2!1spt-BR!2sbr' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
+        "venda_aluguel": "venda",
+        "finalidade": "residencial",
+        "fotos": [
+            "https://img.freepik.com/fotos-premium/apartamento-luxo-skyline-com-vista-da-cidade-cobertura-sala-de-estar-ia-generativa_28914-20937.jpg"
+            
+           
+        ],
+        "status": false
+      },
+
+      {
+        "titulo": "Apart. 2 dorm. montese",
+        "descricao": "Lindo apartamento de 3 dormitórios localizado num dos melhores bairros de Fortaleza.",
+        "valor": 800000,
+        "area": 90,
+        "quartos": 3,
+        "tipo": "apartamento",
+        "localizacao": "Santos Dummont, Papicu",
+
+        "mapa": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22521.18034143129!2d-38.55340285307969!3d-3.762271009900169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7494b6c66971d%3A0x92b43e0564734fb6!2sMontese%2C%20Fortaleza%20-%20CE!5e0!3m2!1spt-BR!2sbr!4v1729107508876!5m2!1spt-BR!2sbr' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+       
+        "venda_aluguel": "venda",
+        "finalidade": "residencial",
+        "fotos": [
+            "https://img.freepik.com/fotos-premium/apartamento-luxo-skyline-com-vista-da-cidade-cobertura-sala-de-estar-ia-generativa_28914-20937.jpg"
+
+           
+        ],
+        "status": false
+      }
+]
+
+
